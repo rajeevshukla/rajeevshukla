@@ -24,9 +24,9 @@ You can find me writing blogs on *[medium](https://catalins.tech)*.
 ## &#x1f4c8; GitHub snapshot !
 
 <a href="https://github.com/rajeevshukla/rajeevshukla">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeevshukla&hide=JavaScript&title_color=ffffff&text_color=FAFBFC&icon_color=2bbc8a&bg_color=01987A" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeevshukla&hide=JavaScript&title_color=ffffff&text_color=FAFBFC&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <a href="https://github.com/rajeevshukla/rajeevshukla">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rajeevshukla&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=562765&bg_color=01987A" alt="Rajeev's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rajeevshukla&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Rajeev's GitHub Stats" />
 </a>
