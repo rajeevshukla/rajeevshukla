@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/rajeevshukla/rajeevshukla/master/wave.gif" width="30px">, I'm  Rajeev Shukla!
+### Hi there <img src="https://raw.githubusercontent.com/rajeevshukla/rajeevshukla/master/wave.gif" width="30px" height="30px">, I'm  Rajeev Shukla!
 - 🔭 I’m currently working at GlobalLogic Inc- USA!
 - 🌱 I’m currently learning and developing million things from front end to back-end,  monolith to microservices,  smalldata to bigdata 🤣
  
