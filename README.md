@@ -6,7 +6,7 @@ My stack is as follows:
 
 * **Backend**: Java8, spring(core,mvc,security,cloud),  Docker, k8s
 * **Frontend**: HTML, CSS, Angular 8, Bootstrap
-* **CI/CD**: TeamCity, Jenkins
+* **CI/CD**: TeamCity, Jenkins, gitlab
 * **Build**: Ant,Maven,Gradle
 
 
