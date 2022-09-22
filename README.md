@@ -4,7 +4,7 @@
  
 My stack is as follows:
 
-* **Backend**: Java8, spring(core,mvc,security,cloud),  Docker, k8s
+* **Backend**: Java8, spring(core,mvc,security,cloud),  Docker, k8s, kafka, kafka streams 
 * **Frontend**: HTML, CSS, Angular 8, Bootstrap
 * **CI/CD**: TeamCity, Jenkins, gitlab
 * **Build**: Ant,Maven,Gradle
