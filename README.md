@@ -1,6 +1,5 @@
 ### Hi there <img src="https://raw.githubusercontent.com/rajeevshukla/rajeevshukla/master/wave.gif" width="30px" height="30px">, I'm  Rajeev Shukla!
-- 🔭 I’m currently working for client T-Mobile !
-- 🌱 I’m currently learning and developing million things from front end to back-end,  monolith to microservices,  smalldata to bigdata 🤣
+- 🌱 I’m currently learning and developing million things from front end to back-end,  monolith to microservices,  smalldata to bigdata
  
 My stack is as follows:
 
