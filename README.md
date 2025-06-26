@@ -192,13 +192,13 @@ My stack is as follows:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeevshukla&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&exclude_repo="/>
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajeevshukla&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajeevshukla&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
-</div>
+</div> -->
 
 ---
 
@@ -211,7 +211,7 @@ My stack is as follows:
 </div>
 
 **Professional Milestones:**
-- 🎯 **10+ Years** of Enterprise Software Development
+- 🎯 **14+ Years** of Enterprise Software Development
 - 🏗️ **Led** multiple microservices migration projects
 - 📊 **Optimized** system performance by 300%+ in various projects
 - 👥 **Mentored** 20+ developers in modern Java and Spring technologies
@@ -226,8 +226,6 @@ My stack is as follows:
 ├── 🔬 Explore AI/ML integration in enterprise applications
 ├── 🌊 Master reactive programming with Project Reactor
 ├── 🏗️ Contribute to major open-source projects
-├── 📚 Publish technical book on microservices architecture
-└── 🎤 Speak at international tech conferences
 ```
 
 ---
