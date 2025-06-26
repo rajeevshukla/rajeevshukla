@@ -132,7 +132,7 @@
   <a href="https://medium.com/@mail2rajeevshukla">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
-  <img src="https://img.shields.io/badge/Technical%20Articles-50+-blue?style=for-the-badge" alt="Articles" />
+  <img src="https://img.shields.io/badge/Technical%20Articles-2+-blue?style=for-the-badge" alt="Articles" />
   <img src="https://img.shields.io/badge/Monthly%20Readers-5K+-green?style=for-the-badge" alt="Readers" />
 </div>
 
