@@ -70,13 +70,15 @@
 ### 🗄️ **Databases & Caching**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Amazon Aurora](https://img.shields.io/badge/Amazon%20Aurora-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
+![Apache Cassandra](https://img.shields.io/badge/Apache%20Cassandra-1287B1?style=for-the-badge&logo=apache%20cassandra&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white)
 
 - **Redis:** Caching strategies, Pub/Sub, Redis Cluster, Session management
-- **SQL Databases:** PostgreSQL, MySQL, Oracle
-- **NoSQL:** MongoDB, DynamoDB
-- **Data Modeling:** Relational design, Document databases, Key-value stores
+- **SQL Databases:** PostgreSQL, MySQL, Aurora (MySQL/PostgreSQL compatible)
+- **NoSQL:** DynamoDB, Apache Cassandra
+- **Data Modeling:** Relational design, Wide-column stores, Key-value stores, Distributed databases
 
 ### 🔧 **DevOps & CI/CD**
 ![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
@@ -87,17 +89,7 @@
 - **Build Tools:** Maven, Gradle, Ant
 - **CI/CD Pipelines:** GitLab CI/CD, Jenkins, TeamCity
 - **Infrastructure as Code:** AWS CloudFormation, Terraform
-- **Monitoring:** Prometheus, Grafana, ELK Stackere <img src="https://raw.githubusercontent.com/rajeevshukla/rajeevshukla/master/wave.gif" width="30px" height="30px">, I'm  Rajeev Shukla!
-- 🌱 I’m currently learning and developing million things from front end to back-end,  monolith to microservices,  smalldata to bigdata
- 
-My stack is as follows:
-
-* **Backend**: Java8, spring(core,mvc,security,cloud),  Docker, k8s, kafka, kafka streams 
-* **Frontend**: HTML, CSS, Angular 8, Bootstrap
-* **CI/CD**: TeamCity, Jenkins, gitlab
-* **Build**: Ant,Maven,Gradle
-
-
+- **Monitoring:** Prometheus, Grafana, ELK Stack
 ---
 
 ## 🏗️ **Architecture & Design Patterns**
@@ -205,10 +197,18 @@ My stack is as follows:
 ## 🏆 **Achievements & Certifications**
 
 <div align="center">
-  <img src="https://img.shields.io/badge/AWS-Solutions%20Architect-orange?style=for-the-badge&logo=amazon-aws" alt="AWS SA" />
-  <img src="https://img.shields.io/badge/Kubernetes-CKA-blue?style=for-the-badge&logo=kubernetes" alt="CKA" />
-  <img src="https://img.shields.io/badge/Spring-Professional-green?style=for-the-badge&logo=spring" alt="Spring" />
+  <img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS SAA" />
+  <img src="https://img.shields.io/badge/Kubernetes-CKAD-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="CKAD" />
+  <img src="https://img.shields.io/badge/Oracle-OCPJP%20Java%207-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="OCPJP" />
+  <img src="https://img.shields.io/badge/Oracle-OCJWC%206-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="OCJWC" />
 </div>
+
+**🎓 Professional Certifications:**
+- ☁️ **AWS Certified Solutions Architect - Associate** - Cloud architecture and best practices
+- ⚙️ **Certified Kubernetes Application Developer (CKAD)** - Container orchestration and application deployment
+- ☕ **Oracle Certified Professional Java SE 7 Programmer (OCPJP)** - Advanced Java programming skills
+- 🌐 **Oracle Certified Java Web Component Developer 6 (OCJWC)** - Java web development expertise
+
 
 **Professional Milestones:**
 - 🎯 **14+ Years** of Enterprise Software Development
